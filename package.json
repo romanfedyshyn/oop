@@ -1,0 +1,29 @@
+{
+  "name": "ajax-pet-project",
+  "version": "1.0.0",
+  "description": "homework for ajax lecture",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Fedyshyn",
+  "license": "MIT",
+  "devDependencies": {
+  	"bower": "1.7.7",
+  	"gulp": "",
+  	"gulp-jshint": "~1.8.4",
+  	"jshint-stylish": "~2.1.0",
+  	"gulp-livereload": "",
+  	"gulp-watch": "",
+  	"gulp-sass": "",
+  	"del": "",
+  	"gulp-uglify": "",
+  	"gulp-copy": "",
+  	"gulp-concat": "",
+  	"gulp-connect": "",
+  	"gulp-minify": "",
+  	"gulp-util": "",
+    "gulp-server": "",
+    "connect-modrewrite": ""
+  }
+}

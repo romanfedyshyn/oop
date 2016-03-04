@@ -1,0 +1,19 @@
+#user-form {
+	margin-left: 210px;
+}
+
+#user-table,
+thead,
+tbody,
+tr,
+td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	margin: 100px auto;
+	width: auto;
+	height: auto;
+}
+
+.templateRow {
+	display: none;
+}

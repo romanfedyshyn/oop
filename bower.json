@@ -1,0 +1,22 @@
+{
+  "name": "cv-main",
+  "description": "First real project",
+  "main": "app.js",
+  "authors": [
+    "Roman Fedyshyn"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/CV-Project/CV-Main",
+  "moduleType": [
+    "es6"
+  ],
+  "devDependencies": {
+    "angular": "^1.4.8",
+    "d3": "^3.5.12",
+    "jquery": "^2.2.0",
+    "underscore": "^1.8.3",
+    "lodash": "^4.3.0",
+    "numeral": "^1.5.3",
+    "moment": "^2.11.2"
+  }
+}
